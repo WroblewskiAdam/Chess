@@ -16,6 +16,27 @@ Project requires C++ compiler and Qt version 5.15.2 to work.
 All work was done in Visul Studio.
 
 # Screenshots
-None of the graphics/ gifs used in project were not done by us, we are not the authors of them.
+*None of the graphics/ gifs used in project were not done by us, we are not the authors of them.*
+
+### Main menu:
+<p align="center" width="100%">
+<img alt="Main menu" src="./Screenshots/menu1.png" width=600 height= auto>
+<br>
+
+<p align="center" width="100%">
+<img alt="Gameplay selection" src="./Screenshots/menu2.png" width=600 height= auto>
+<br>
+
+### Gameplay:
+<p align="center" width="100%">
+<img alt="Gameplay" src="./Screenshots/game1.png" width=600 height= auto>
+<br>
 
 
+### End Screen:
+<p align="center" width="100%">
+<img alt="End screen" src="./Screenshots/finish.png" width=600 height= auto>
+<br>
+
+# Contributors:
+Project was done with [Krystian Grela](https://github.com/GreysonKrystian) and Aleksander Woś.
